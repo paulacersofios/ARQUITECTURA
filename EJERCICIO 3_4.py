@@ -1,4 +1,6 @@
-v1 = input("Ingrese valor 1:")
-v2 = input("ingrese valor 2:")
-print (v1,v2)
-v1,v2 = v2,v1
+a = 10
+b = 20
+
+aux=a
+a=b
+b=aux
