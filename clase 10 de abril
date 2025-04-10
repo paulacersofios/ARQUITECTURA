@@ -20,6 +20,8 @@ numero=random.randint(1,100)
 if numero not in lista:
 lista.append(numero)
 
+lista1=[2,5,7.34,44,32]
+lista2=[4,16,14,1,23,40]
 
 import random
 lista=[]
