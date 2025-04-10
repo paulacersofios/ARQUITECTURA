@@ -1,0 +1,14 @@
+texto="arquitectura"
+vocal="aeiou"
+contador=0
+
+for a in texto:
+    if a in vocal :
+        contador +=1
+print ("la cantidad de vocales son",contador)
+
+range(21)
+%2==0
+for numeros in range (0;21):
+if numeros %2=0:
+print("es par")
