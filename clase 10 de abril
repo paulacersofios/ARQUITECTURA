@@ -12,3 +12,10 @@ range(21)
 for numeros in range (0;21):
 if numeros %2=0:
 print("es par")
+
+
+lista=[]
+for i in range(20):
+numero=random.randint(1,100)
+if numero not in lista:
+lista.append(numero)
