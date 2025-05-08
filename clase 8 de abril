@@ -1,0 +1,13 @@
+def saludar(nombre):
+    print (f"hola{nombre}")
+    
+def calcular(a,b):
+    return a+b
+
+
+import mi_modulo
+mi_modulo.saludar("juan")
+resultado=mi_modulo.calcular(45,90)
+print(resultado)
+
+
