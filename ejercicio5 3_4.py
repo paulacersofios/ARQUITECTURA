@@ -31,3 +31,10 @@ while valor !=0:
     suma=suma+valor
     valor=int(input("inserte un valor"))
 print(f"el total es {suma}")
+
+
+
+
+
+listas=[3,2,4,5]
+diccionarios:
